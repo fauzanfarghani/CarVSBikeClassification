@@ -1,0 +1,5 @@
+url dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset
+
+url model: https://drive.google.com/file/d/1sW4Zc44ifZyHzLVYh9u4leL7TSKfbm1e/view?usp=sharing
+
+url deployment: https://huggingface.co/spaces/fauzanfarghani/CarVSBikeClassification
